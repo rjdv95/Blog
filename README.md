@@ -1,16 +1,17 @@
-# bloging
+# Blog App
 
-A new Flutter application.
+A Blogging app made by flutter and dart to create and post Blogs. User can also read others Blogs and like it by hiting on thumbs up. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+|                       |                              |                              |                              |
+|-----------------------| ---------------------------- | ---------------------------- | ---------------------------- |
+| ![](Screenshots/02.jpeg) | ![](Screenshots/03.jpeg) | ![](Screenshots/04.jpeg) |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Future Enhancements
+- Search button on home page.
+- One more section to show all Blog posts posted by all users.
+- User can be able to edit or delete their post.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
